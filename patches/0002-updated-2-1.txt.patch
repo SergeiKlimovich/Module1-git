@@ -1,0 +1,21 @@
+From 8c5a43257591e93ac89294354be6d0b157f8b7dd Mon Sep 17 00:00:00 2001
+From: Sergei_Klimovich <140184sk@gmail.com>
+Date: Tue, 1 Jun 2021 00:09:15 +0300
+Subject: [PATCH 2/2] updated#2 1.txt
+
+---
+ 1.txt | 2 ++
+ 1 file changed, 2 insertions(+)
+
+diff --git a/1.txt b/1.txt
+index daaf978..3099ddb 100644
+--- a/1.txt
++++ b/1.txt
+@@ -1,2 +1,4 @@
+ firstLine
+ secondLine
++thirdLine
++forthLine
+-- 
+2.31.1.windows.1
+
